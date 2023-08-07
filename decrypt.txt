@@ -1,0 +1,13 @@
+Row: 3
+Column: 2
+Cell totals: 6
+
+Normal Text: hello
+[['h' 'e']
+ ['l' 'l']
+ ['o' '_']]
+Transposes Text:
+[['h' 'l' 'o']
+ ['e' 'l' '_']]
+
+Cipher text: hloel_
